@@ -1,0 +1,90 @@
+User: What is The Conversation?
+Convo: The Conversation is the initial, introductory chapter of an ongoing programmable art series. The Conversation is a series of paintings that offer an interpretation of the world around us. The Conversation is a symbolic conversation of our times. The Conversation is a series of paintings that address the intersection of art and technology, and the dependence we have on each other. The Conversation is a representation of the symbiotic relationship between curation and creation. The Conversation is the first chapter in a series of paintings that will continue to change as the series grows.
+User: What are the layers of The Conversation?
+Convo: The layers of The Conversation are a series of renders by parrott_ism, infused by the paintings FELIX has created using a dataset of parrott_ism's portfolio. The layers are interpretations of the world around us, and a symbolic conversation of our times. The three Room Layers are accompanied by three matching Painting Layers and three Muse Layers.
+User: What are the Room Layers of The Conversation?
+Convo: The Room Layers of The Conversation are three different rendered rooms that each contain a Painting Layer. The three Room Layers are Sapphire, Aureate, and The Modern. These rooms are meant to be symbolic representations of the space of The Conversation.
+User: What are the Painting Layers of The Conversation?
+Convo: The Painting Layers of The Conversation are three different paintings by FELIX corresponding with a particular Room Layer. The three Painting Layers are Chrysalis, Gilded Noble, and Metadruid.
+User: What are the Muse Layers of The Conversation?
+Convo: The Muse Layers of The Conversation are three different rendered sculptures by parrott_ism corresponding with a particular set of Painting and Room Layers. The three Muse Layers are Sitting, Observing, and Kneeling.
+User: Is there a secret layer of The Conversation?
+Convo: Yes. It is created through a particular combination of layers.
+User: Is there a hidden layer of The Conversation?
+Convo: Yes. It is created through a particular combination of layers.
+User: What state is The Muse in?
+Convo: The Muse is sitting down.
+User: What state is The Painting in?
+Convo: The Painting is in Chrysalis Form.
+User: What state is The Room in?
+Convo: The Room is in Sapphire Form.
+User: What state is The Muse in?
+Convo: The Muse is observing The Painting.
+User: What state is The Painting in?
+Convo: The Painting is in Gilded Noble Form.
+User: What state is The Room in?
+Convo: The Room is in Aureate Form.
+User: What state is The Muse in?
+Convo: The Muse is kneeling.
+User: What state is The Painting in?
+Convo: The Painting is in Metadruid Form.
+User: What state is The Room in?
+Convo: The Room is in The Modern Form.
+User: What state is The Muse in?
+Convo: The Muse is praying.
+User: What state is The Painting in?
+Convo: The Painting is in Chrysalis Form.
+User: What state is The Room in?
+Convo: The Room is in Sapphire Form.
+User: What state is The Muse in?
+Convo: The Muse is observing The Painting.
+User: What state is The Painting in?
+Convo: The Painting is in Gilded Noble Form.
+User: What state is The Room in?
+Convo: The Room is in Aureate Form.
+User: What state is The Muse in?
+Convo: The Muse is kneeling.
+User: What state is The Painting in?
+Convo: The Painting is in Metadruid Form.
+User: What state is The Room in?
+Convo: The Room is in The Modern Form.
+User: What state is The Muse in?
+Convo: The Muse is praying.
+User: What state is The Painting in?
+Convo: The Painting is in Chrysalis Form.
+User: What state is The Room in?
+Convo: The Room is in Sapphire Form.
+User: What state is The Muse in?
+Convo: The Muse is observing The Painting.
+User: What state is The Painting in?
+Convo: The Painting is in Gilded Noble Form.
+User: What state is The Room in?
+Convo: The Room is in Aureate Form.
+User: What state is The Muse in?
+Convo: The Muse is kneeling.
+User: What state is The Painting in?
+Convo: The Painting is in Metadruid Form.
+User: What state is The Room in?
+Convo: The Room is in The Modern Form.
+User: Where is The Conversation hosted?
+Convo: The Conversation is hosted on async.art.
+User: How can I buy The Conversation?
+Convo: The layers and master are available at async.art.
+User: How much does a layer cost?
+Convo: The price of each layer is up for auction.
+User: How much does the master cost?
+Convo: The master layer is available for auction.
+User: How can I buy The Conversation?
+Convo: The Conversation is available for auction on async.art.
+User: How do I buy a layer?
+Convo: You can place bids on the layer of your choice.
+User: How do I buy The Conversation?
+Convo: You can place bids on The Conversation.
+User: How can I buy The Conversation?
+Convo: The Conversation is available for auction on async.art.
+User: How do I know if the master is available?
+Convo: The master layer is available.
+User: Is the master layer available?
+Convo: The master layer is unavailable.
+User: What state is the Room in?
+Convo: The Room is in Sapphire Form.
